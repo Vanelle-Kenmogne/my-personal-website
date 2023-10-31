@@ -1,0 +1,58 @@
+.double-size:hover {
+  transform: scale(2);
+}
+
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0d9a1b;
+}
+
+li.navitem {
+  float: left;
+}
+
+li.navitem a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li.navitem a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.index-body1{
+  background-image: url("../images/csir-microscope.jpg");
+  background-size: cover; /* Adjust to cover the entire screen */
+  background-position:center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  }
+.index-body2{
+  background-image: url("../images/indabaphoto.jpg");
+  background-size: cover; /* Adjust to cover the entire screen */
+  background-position:center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  }
+body{
+    background-color:lightyellow;
+  }
+.index-div1{
+  color: rgb(3, 60, 191);
+  text-align: center;
+}
+  
+
+
+
+
+
+
